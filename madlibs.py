@@ -15,7 +15,6 @@ value2=1
 value3=input1 + value2
 input2=input("profession:")
 input3=input("Article:")
-madlib=f"I am {input1} years old.Next year I will be {value3} years old.\
-I  am {input3} {input2}."
+madlib=f"I am {input1} years old.Next year I will be {value3} years old.\nI  am {input3} {input2}."
 print(madlib)
 
